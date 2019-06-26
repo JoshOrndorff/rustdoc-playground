@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Food","Let's an an enum so we have plenty of doc content"]],"fn":[["main","The simple main function that comes with new cargo binary crates. This documentation is just placeholder."]]});

@@ -1,0 +1,4 @@
+var N=null,E="",T="t",U="u",searchIndex={};
+var R=["result"];
+searchIndex["main"]={"doc":E,"i":[[4,"Food","main","Let's an an enum so we have plenty of doc content",N,N],[13,"Bread",E,E,0,N],[13,"Rice",E,E,0,N],[13,"Pizza",E,E,0,N],[5,"main",E,"The simple main function that comes with new cargo binary…",N,[[]]],[11,"into",E,E,0,[[],[U]]],[11,"from",E,E,0,[[[T]],[T]]],[11,"try_from",E,E,0,[[[U]],[R[0]]]],[11,"try_into",E,E,0,[[],[R[0]]]],[11,"borrow_mut",E,E,0,[[["self"]],[T]]],[11,"borrow",E,E,0,[[["self"]],[T]]],[11,"type_id",E,E,0,[[["self"]],["typeid"]]]],"p":[[4,"Food"]]};
+initSearch(searchIndex);addSearchOptions(searchIndex);
